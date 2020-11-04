@@ -142,3 +142,4 @@ python3 detect.py --image_folder data/samples/
 ## TODO
 
 好多要做的，完善流程
+图片显示问题
